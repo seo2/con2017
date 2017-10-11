@@ -84,9 +84,9 @@ if(ICL_LANGUAGE_CODE=='en'){
                   </div>
                   <div class="bullet-content">
                     <h2><?php bloginfo('name'); ?></h2>
-                    <p>La Cantera 2325<br>
-                    Coquimbo<br>
-                    <a href="https://www.google.com/maps?ll=-29.976287,-71.295227&z=18&t=m&hl=es-ES&gl=US&mapclient=apiv3&cid=3780865414655291440" class="link_rojo" target="_blank"><?php echo $tit1; ?></a></p>
+                    <p>Av. Portal San Pedro 4850, San Pedro de la Paz<br>
+                    Concepción<br>
+                    <a href="https://www.google.com/maps/place/Arauco+Premium+Outlet+San+Pedro/@-36.8657861,-73.1376094,16z/data=!4m5!3m4!1s0x0:0x101d532769cf4e66!8m2!3d-36.866223!4d-73.1367481?hl=es-ES" class="link_rojo" target="_blank"><?php echo $tit1; ?></a></p>
                   </div>
                 </li>
                 <li class="bullet clearfix">
@@ -102,8 +102,7 @@ if(ICL_LANGUAGE_CODE=='en'){
                     <p>SEGUNDA A DOMINGO DAS 10:30H ATÉ AS 21:00H.</p>
 					<?php }else{  ?>
                     <h2>horarios</h2>
-                    <p>lunes a domingo y festivos
-                    de 10 a 21 hrs.</p>
+                    <p>LUNES A DOMINGO Y FESTIVOS DE 10 A 21 HRS.</p>
 					<?php } ?>
                   </div>
                 </li>
