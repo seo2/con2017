@@ -93,7 +93,7 @@ if(ICL_LANGUAGE_CODE=='en'){
                             </div>  -->
 
                              <div class="item">
-                                 <a href="https://www.google.com/maps/place/Arauco+Premium+Outlet+Coquimbo/@-29.9757142,-71.2976016,17z/data=!3m1!4b1!4m5!3m4!1s0x9691c9433dd04d4d:0x347855101016b030!8m2!3d-29.9757189!4d-71.2954129?hl=es-ES" target="_blank">
+                                 <a href="https://www.google.com/maps/place/Arauco+Premium+Outlet+San+Pedro/@-36.8666416,-73.1395249,15z/data=!4m5!3m4!1s0x9669c97416ac036f:0x101d532769cf4e66!8m2!3d-36.866223!4d-73.1367481?hl=es-ES" target="_blank">
                                 <?php if($e==1){ ?>
                                      <div class="caption foodcourt">
                                         <p></p>
